@@ -2,5 +2,5 @@
 user=root
 password=carmelo
 host=127.0.0.1
-database=go_sales
+database=itunes
 raise_on_warnings=True
